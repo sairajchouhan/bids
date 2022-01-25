@@ -8,3 +8,6 @@ Alias for common npm scripts like
 - dev
 
 and more
+
+
+ ***This is imcomplete will add more info soon***
