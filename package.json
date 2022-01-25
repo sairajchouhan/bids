@@ -1,11 +1,10 @@
 {
   "name": "bids",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "description": "Aliases for common script execution commands",
+  "bin": "index.js",
+  "type": "module",
+  "author": "Sairaj Chouahn",
+  "license": "MIT",
+  "scripts": {}
 }
